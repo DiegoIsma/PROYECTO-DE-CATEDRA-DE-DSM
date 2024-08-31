@@ -48,10 +48,6 @@ Bienvenido al respositorio de desarrollo de
 
 > [Pefil del proyecto PDF 📖](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Poyecto_de_catedra_fase1_DPS.pdf)
 
-> [Manuales 📖](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/tree/master/Manuales)
-
-
-
 <h2>📕 Licencias</h2>
 
 ![by-nc-nd](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Licencia.png)
