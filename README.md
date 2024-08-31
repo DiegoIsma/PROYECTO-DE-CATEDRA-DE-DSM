@@ -3,9 +3,9 @@
 Bienvenido al respositorio de desarrollo de  
 
 > [!IMPORTANT]
->  SnapGallery Aún continua en desarrollo, espera  publicación y nuevas noticas
+> Aún continua en desarrollo, espera  publicación y nuevas noticas
 
-<h2>:wave: Equipo de SnapGallery</h2>
+<h2>:wave: Equipo de </h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
