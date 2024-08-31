@@ -50,7 +50,7 @@ Bienvenido al respositorio de desarrollo de
 
 <h2>📕 Licencias</h2>
 
-![by-nc-nd](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Licencia.png)
+![by-nc-nd]()
 
 > [!CAUTION]
 >SnapGallery está bajo la licencia CC BY-NC-SA 4.0 DEED
