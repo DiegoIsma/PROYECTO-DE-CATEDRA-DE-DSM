@@ -33,7 +33,7 @@ Bienvenido al respositorio de desarrollo de EasyDining
 ![by-nc-nd]()
 
 > [!CAUTION]
->SnapGallery está bajo la licencia CC BY-NC-SA 4.0 DEED
+>EasyDining está bajo la licencia CC BY-NC-SA 4.0 DEED
 
 
 > [!CAUTION]
