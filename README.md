@@ -1,6 +1,6 @@
 # PROYECTO-DE-CATEDRA-DE-DSM
-#   Titulo
-Bienvenido al respositorio de desarrollo de  
+#   EasyDining
+Bienvenido al respositorio de desarrollo de EasyDining
 
 > [!IMPORTANT]
 > Aún continua en desarrollo, espera  publicación y nuevas noticas
@@ -10,35 +10,15 @@ Bienvenido al respositorio de desarrollo de
   <table style={margin: 0 auto}>
   <tr align="center">
    <td>Diego Ismael Chávez</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Fernando Arturo Ramírez</td>
+    <td>Keiry Elizabeth Ortez</td>
+    <td>Anderson Alessandro Pablo</td>
   </tr>
-    <tr align="center">
-    <td>Full Stack <br> :computer: :art: :bulb:</td>
-    <td>Progrador BackEnd <br> :computer: :wrench: :bulb:</td>
-    <td>Programadora FrontEnd <br>:computer: :art: :bulb:</td>
-    <td>Full Stack <br> :computer: :art: :bulb:</td>
-    <td>Progrador BackEnd <br>:computer: :wrench: :bulb:</td>
-    <td>Programador FrontEnd <br> :computer: :art: :bulb:</td>
-  </tr>
 </table>
 </div>
 
 
-<h2>:hammer: Tecnologías Empleadas</h2>
 
-
-
-<table>
-
-  <tr align="center">
-    <td>Laravel </td>
-    <td>kotline</td>
-  </tr>
-</table>
 
 <h2>:open_file_folder: Otros Archivos importantes </h2>
 
